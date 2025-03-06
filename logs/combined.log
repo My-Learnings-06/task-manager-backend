@@ -1,0 +1,874 @@
+2025-03-05T05:34:58.563Z [32minfo[39m: Server running on port 5000
+2025-03-05T05:35:12.356Z [32minfo[39m: Server running on port 5000
+2025-03-05T05:38:15.113Z [32minfo[39m: Server running on port 5000
+2025-03-05T05:38:22.075Z [32minfo[39m: GET /
+2025-03-05T05:38:22.403Z [32minfo[39m: GET /favicon.ico
+2025-03-05T05:38:40.962Z [32minfo[39m: GET /tasks
+2025-03-05T05:38:57.364Z [32minfo[39m: Server running on port 5000
+2025-03-05T05:39:00.274Z [32minfo[39m: Server running on port 5000
+2025-03-05T05:39:04.647Z [32minfo[39m: GET /api/tasks
+2025-03-05T05:39:10.839Z [32minfo[39m: GET /api/users
+2025-03-05T05:39:27.541Z [32minfo[39m: GET /api/register
+2025-03-05T05:47:53.345Z [32minfo[39m: GET /api/tasks
+2025-03-05T05:51:50.142Z [32minfo[39m: GET /api/dashboard
+2025-03-05T05:52:01.340Z [32minfo[39m: GET /api/profile
+2025-03-05T05:52:54.994Z [32minfo[39m: GET /api/users/profile
+2025-03-05T05:53:15.507Z [32minfo[39m: Server running on port 5000
+2025-03-05T05:53:31.177Z [32minfo[39m: GET /api/tasks
+2025-03-05T05:54:48.971Z [32minfo[39m: GET /api/signup
+2025-03-05T05:55:00.723Z [32minfo[39m: GET /api/register
+2025-03-05T05:55:05.123Z [32minfo[39m: GET /api/users/register
+2025-03-05T05:55:07.782Z [32minfo[39m: GET /api/users/register
+2025-03-05T05:55:11.366Z [32minfo[39m: POST /api/users/register
+2025-03-05T05:55:25.361Z [32minfo[39m: POST /api/users/login
+2025-03-05T05:56:06.229Z [32minfo[39m: Server running on port 5000
+2025-03-05T05:56:07.313Z [32minfo[39m: Server running on port 5000
+2025-03-05T05:56:07.924Z [32minfo[39m: POST /api/users/login
+2025-03-05T05:56:50.271Z [32minfo[39m: POST /api/users/login
+2025-03-05T05:56:59.024Z [32minfo[39m: GET /api/users/profile
+2025-03-05T05:57:50.022Z [32minfo[39m: DELETE /api/users/67c7e73ff3f7763c22129d18
+2025-03-05T05:58:16.227Z [32minfo[39m: GET /api/users/profile
+2025-03-05T05:58:43.378Z [32minfo[39m: Server running on port 5000
+2025-03-05T05:58:44.376Z [32minfo[39m: GET /api/users/profile
+2025-03-05T05:58:51.921Z [32minfo[39m: Server running on port 5000
+2025-03-05T05:59:12.195Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:00:54.007Z [32minfo[39m: Server running on port 5000
+2025-03-05T06:03:56.920Z [32minfo[39m: Server running on port 5000
+2025-03-05T06:03:59.906Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:04:02.412Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:04:03.880Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:05:56.546Z [32minfo[39m: Server running on port 5000
+2025-03-05T06:06:00.344Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:06:01.870Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:06:08.228Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:06:09.464Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:06:29.283Z [32minfo[39m: GET /api/users/profile
+2025-03-05T06:06:39.949Z [32minfo[39m: POST /api/users/login
+2025-03-05T06:06:47.905Z [32minfo[39m: DELETE /api/users/67c7e9d01158655675fb7a9a
+2025-03-05T06:06:57.207Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:07:36.582Z [32minfo[39m: Server running on port 5000
+2025-03-05T06:07:39.281Z [32minfo[39m: Server running on port 5000
+2025-03-05T06:08:25.924Z [32minfo[39m: Server running on port 5000
+2025-03-05T06:08:28.282Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:08:30.121Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:08:31.327Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:08:32.528Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:08:36.133Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:08:37.532Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:08:48.563Z [32minfo[39m: POST /api/users/login
+2025-03-05T06:08:57.207Z [32minfo[39m: DELETE /api/users/67c7ea64280e9e5bd9ca441a
+2025-03-05T06:09:27.988Z [32minfo[39m: Server running on port 5000
+2025-03-05T06:09:39.477Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:09:41.681Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:10:37.639Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:10:44.565Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:10:47.824Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:10:57.679Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:11:09.970Z [32minfo[39m: POST /api/users/login
+2025-03-05T06:11:13.672Z [32minfo[39m: POST /api/users/login
+2025-03-05T06:11:20.289Z [32minfo[39m: DELETE /api/users/67c7eadd4c26875e2a8359ae
+2025-03-05T06:12:00.404Z [32minfo[39m: DELETE /api/users/67c7eadd4c26875e2a8359ae
+2025-03-05T06:12:03.888Z [32minfo[39m: DELETE /api/users/67c7eadd4c26875e2a8359ae
+2025-03-05T06:12:12.053Z [32minfo[39m: POST /api/users/register
+2025-03-05T06:12:48.360Z [32minfo[39m: POST /api/users/login
+2025-03-05T06:12:52.783Z [32minfo[39m: POST /api/users/login
+2025-03-05T06:13:33.944Z [32minfo[39m: POST /api/users/login
+2025-03-05T06:13:48.515Z [32minfo[39m: POST /api/tasks/
+2025-03-05T06:14:01.450Z [32minfo[39m: PUT /api/tasks/
+2025-03-05T06:14:14.939Z [32minfo[39m: GET /api/tasks/
+2025-03-05T06:14:22.501Z [32minfo[39m: PUT /api/tasks/67c7eb9c4c26875e2a8359c8
+2025-03-05T06:14:30.333Z [32minfo[39m: DELETE /api/tasks/67c7eb9c4c26875e2a8359c8
+2025-03-05T06:14:50.618Z [32minfo[39m: POST /api/tasks
+2025-03-05T06:15:12.882Z [32minfo[39m: PUT /api/tasks/67c7ebda4c26875e2a8359d2
+2025-03-05T06:16:31.707Z [32minfo[39m: POST /api/tasks
+2025-03-05T06:16:32.993Z [32minfo[39m: POST /api/tasks
+2025-03-05T06:16:33.869Z [32minfo[39m: POST /api/tasks
+2025-03-05T06:16:34.852Z [32minfo[39m: POST /api/tasks
+2025-03-05T07:32:08.339Z [32minfo[39m: Server running on port 5000
+2025-03-05T07:32:52.881Z [32minfo[39m: Server running on port 5000
+2025-03-05T07:33:06.710Z [32minfo[39m: Server running on port 5000
+2025-03-05T07:33:30.320Z [32minfo[39m: Server running on port 5000
+2025-03-05T07:33:41.593Z [32minfo[39m: GET /
+2025-03-05T07:58:49.111Z [32minfo[39m: Server running on port 5000
+2025-03-05T08:00:09.142Z [32minfo[39m: Server running on port 5000
+2025-03-05T08:00:22.206Z [32minfo[39m: Server running on port 5000
+2025-03-05T08:00:58.039Z [32minfo[39m: Server running on port 5000
+2025-03-05T08:04:04.549Z [32minfo[39m: GET /tasks
+2025-03-05T08:04:04.587Z [32minfo[39m: GET /tasks
+2025-03-05T08:04:39.587Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:04:39.727Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:05:45.740Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:05:45.907Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:06:16.394Z [32minfo[39m: GET /
+2025-03-05T08:06:27.073Z [32minfo[39m: GET /api/users
+2025-03-05T08:06:34.741Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:07:05.246Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:07:05.406Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:07:13.409Z [32minfo[39m: POST /api/users/login
+2025-03-05T08:07:54.714Z [32minfo[39m: POST /api/users/login
+2025-03-05T08:10:55.404Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:10:55.417Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:12:25.227Z [32minfo[39m: Server running on port 5000
+2025-03-05T08:12:33.901Z [32minfo[39m: Server running on port 5000
+2025-03-05T08:12:45.506Z [32minfo[39m: Server running on port 5000
+2025-03-05T08:13:10.099Z [32minfo[39m: OPTIONS /api/users/login
+2025-03-05T08:13:11.459Z [32minfo[39m: OPTIONS /api/users/login
+2025-03-05T08:13:12.522Z [32minfo[39m: OPTIONS /api/users/login
+2025-03-05T08:13:15.486Z [32minfo[39m: OPTIONS /api/users/login
+2025-03-05T08:13:31.382Z [32minfo[39m: Server running on port 5000
+2025-03-05T08:13:48.165Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:13:48.536Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:14:23.556Z [32minfo[39m: Server running on port 5000
+2025-03-05T08:14:27.458Z [32minfo[39m: Server running on port 5000
+2025-03-05T08:15:09.026Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:15:09.214Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:15:56.803Z [32minfo[39m: Server running on port 5000
+2025-03-05T08:16:06.380Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:16:06.534Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:17:30.880Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:17:31.037Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:20:01.742Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:20:01.769Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:21:34.783Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:21:34.951Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:21:49.070Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:21:49.072Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:23:17.036Z [32minfo[39m: GET /api/tasks
+2025-03-05T08:23:17.196Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:01:51.722Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:03:19.877Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:03:19.898Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:04:21.074Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:04:21.082Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:05:13.678Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:05:14.452Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:07:02.237Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:07:04.910Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:07:04.921Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:07:11.674Z [32minfo[39m: OPTIONS /api/users/login
+2025-03-05T09:07:39.805Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:07:43.118Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:07:58.645Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:08:02.447Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:08:13.203Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:08:13.331Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:08:19.595Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:08:36.640Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:08:36.816Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:09:01.885Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:09:12.930Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:09:15.946Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:09:21.841Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:09:24.777Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:09:35.466Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:09:35.650Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:11:03.041Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:11:12.142Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:11:12.149Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:12:46.041Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:12:46.231Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:15:38.620Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:15:38.629Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:17:30.383Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:18:45.957Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:18:45.965Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:19:15.950Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:19:23.235Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:19:23.391Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:22:02.933Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:22:24.658Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:22:36.291Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:23:16.476Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:23:16.937Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:23:28.660Z [32minfo[39m: POST /api/users/register
+2025-03-05T09:25:30.883Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:25:30.901Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:25:36.157Z [32minfo[39m: POST /api/users/login
+2025-03-05T09:25:50.216Z [32minfo[39m: POST /api/users/login
+2025-03-05T09:31:29.334Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:34:09.951Z [32minfo[39m: Server running on port 5000
+2025-03-05T09:34:30.298Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:34:30.655Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:34:42.040Z [32minfo[39m: POST /api/users/login
+2025-03-05T09:34:51.815Z [32minfo[39m: POST /api/users/login
+2025-03-05T09:34:53.641Z [32minfo[39m: POST /api/users/login
+2025-03-05T09:35:54.491Z [32minfo[39m: GET /api/tasks
+2025-03-05T09:35:54.667Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:45:54.746Z [32minfo[39m: Server running on port 5000
+2025-03-05T10:46:45.821Z [32minfo[39m: Server running on port 5000
+2025-03-05T10:46:48.960Z [32minfo[39m: Server running on port 5000
+2025-03-05T10:47:02.620Z [32minfo[39m: Server running on port 5000
+2025-03-05T10:47:25.111Z [32minfo[39m: GET /
+2025-03-05T10:47:39.757Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:47:39.866Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:48:03.933Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:48:03.950Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:48:38.909Z [32minfo[39m: POST /api/users/login
+2025-03-05T10:48:49.065Z [32minfo[39m: POST /api/users/login
+2025-03-05T10:49:00.627Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:49:00.906Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:49:38.311Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:49:38.314Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:50:17.975Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:50:18.002Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:53:17.967Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:53:18.252Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:53:18.556Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:53:18.858Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:53:45.429Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:53:45.432Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:53:45.449Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:53:45.618Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:54:20.077Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:54:20.081Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:54:20.085Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:54:20.094Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:54:20.348Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:54:20.420Z [32minfo[39m: GET /api/tasks
+2025-03-05T10:54:20.490Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:00:49.136Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:00:49.150Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:00:49.160Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:00:49.197Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:00:49.288Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:00:49.428Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:00:49.510Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:00:57.782Z [32minfo[39m: POST /api/tasks
+2025-03-05T11:02:43.884Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:02:44.002Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:02:44.004Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:02:44.031Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:02:44.201Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:02:44.458Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:02:44.529Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:12.709Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:12.711Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:12.711Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:12.719Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:12.821Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:12.896Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:12.966Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:21.060Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:21.065Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:21.066Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:21.068Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:21.168Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:21.242Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:03:21.315Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:04:09.082Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:04:09.085Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:04:09.100Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:04:09.113Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:04:09.203Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:04:09.275Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:04:09.345Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:07:12.850Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:07:12.852Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:07:12.887Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:07:12.912Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:07:13.194Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:07:13.215Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:07:13.260Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:08:58.462Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:08:58.463Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:08:58.495Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:08:58.544Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:08:58.766Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:08:58.813Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:08:58.832Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:09:32.983Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:09:32.993Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:09:32.996Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:09:32.998Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:09:33.085Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:09:33.167Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:09:33.235Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:18.014Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:18.019Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:18.235Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:18.242Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:18.317Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:18.385Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:18.452Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:32.044Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:32.055Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:32.057Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:32.145Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:32.229Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:32.235Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:32.299Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:57.971Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:57.981Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.116Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.193Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.264Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.369Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.419Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.455Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.505Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.527Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.534Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.596Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.605Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.623Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.667Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.680Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.698Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.738Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.752Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.771Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.837Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.849Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.913Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.925Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:58.998Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.068Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.137Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.203Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.274Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.346Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.413Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.479Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.545Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.611Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.680Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.751Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:11:59.818Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:13:53.964Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:13:59.709Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:13:59.721Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:13:59.946Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:00.070Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:00.212Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:00.455Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:00.530Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:00.608Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:00.685Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:00.762Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:00.840Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:00.926Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.001Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.079Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.157Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.239Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.313Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.405Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.486Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.590Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.708Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.811Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.885Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:01.968Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.046Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.141Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.220Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.290Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.377Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.466Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.546Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.622Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.698Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.771Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.846Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:02.927Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.003Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.078Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.169Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.246Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.322Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.402Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.478Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.555Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.632Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.705Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.777Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.850Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:03.928Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.004Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.080Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.160Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.235Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.331Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.401Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.476Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.561Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.631Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.701Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.782Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.859Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:04.934Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.009Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.083Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.156Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.231Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.301Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.377Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.449Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.526Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.607Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.679Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.752Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.830Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.907Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:05.984Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.055Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.137Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.161Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.217Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.232Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.289Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.305Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.366Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.390Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.441Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.472Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.534Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.551Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.608Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.624Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.679Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.699Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.750Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.776Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.822Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.848Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.893Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.923Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:14:06.974Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.069Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.074Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.075Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.379Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.453Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.529Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.599Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.676Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.748Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.821Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.899Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:36.971Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.047Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.118Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.210Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.281Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.352Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.445Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.515Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.588Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.679Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.749Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.819Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.894Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:37.977Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.070Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.145Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.218Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.288Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.357Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.430Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.500Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.570Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.641Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.711Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.779Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.860Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:38.936Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.006Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.077Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.150Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.218Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.298Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.369Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.455Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.527Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.604Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.678Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.752Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.825Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.893Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:39.966Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.036Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.107Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.180Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.251Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.331Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.403Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.472Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.545Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.614Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.689Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.758Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.835Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.904Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:40.982Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.051Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.121Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.190Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.263Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.334Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.404Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.476Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.547Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.623Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.705Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.788Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.862Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:41.935Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.005Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.086Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.162Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.240Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.311Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.382Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.454Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.524Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.595Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.667Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.744Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.817Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.891Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:42.960Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:43.036Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:43.107Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:43.177Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:43.253Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:43.325Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:43.396Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:15:43.470Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:16:52.487Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:16:53.577Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:16:53.588Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:16:53.593Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.016Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.019Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.021Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.157Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.239Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.494Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.567Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.646Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.722Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.808Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.883Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:18.962Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.038Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.112Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.186Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.261Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.338Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.411Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.484Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.562Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.637Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.715Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.787Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.874Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:19.951Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.027Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.107Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.184Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.260Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.331Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.446Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.518Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.594Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.675Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.745Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.823Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.896Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:20.971Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.047Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.125Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.196Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.266Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.337Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.409Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.479Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.550Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.622Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.696Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.776Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.849Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.925Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:21.997Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.073Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.141Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.212Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.282Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.361Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.431Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.512Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.594Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.667Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.745Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.820Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:22.870Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:23.560Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:23.561Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:17:23.563Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:18:23.641Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:18:23.650Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:18:23.831Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:20:39.998Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:20:40.013Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:20:40.055Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:21:01.402Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:21:01.621Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:21:01.645Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:22:18.973Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:22:18.987Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:22:19.149Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:22:26.110Z [32minfo[39m: PUT /api/tasks/67c7ec3f4c26875e2a8359d7
+2025-03-05T11:22:35.123Z [32minfo[39m: PUT /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:22:51.587Z [32minfo[39m: PUT /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:23:07.389Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:23:07.391Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:23:07.393Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:23:14.221Z [32minfo[39m: PUT /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:25:56.615Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:26:01.599Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:26:07.803Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:26:16.565Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:26:17.949Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:26:20.013Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:26:24.569Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:26:39.342Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:26:49.876Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:26:52.689Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:27:02.270Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:27:13.029Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:27:16.416Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:27:22.244Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:29:49.469Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:29:49.483Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:29:49.519Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:29:54.619Z [32minfo[39m: PUT /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:30:32.742Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:30:32.747Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:30:32.749Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:30:37.258Z [32minfo[39m: GET /api/task/67c82ee995235d0c67637747
+2025-03-05T11:30:37.397Z [32minfo[39m: PUT /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:30:58.459Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:30:58.461Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:30:58.493Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:31:03.178Z [32minfo[39m: GET /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:31:03.504Z [32minfo[39m: PUT /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:31:32.827Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:31:32.829Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:31:32.831Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:31:35.750Z [32minfo[39m: GET /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:31:35.908Z [32minfo[39m: PUT /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:33:33.408Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:33:33.602Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:33:33.614Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:33:37.687Z [32minfo[39m: GET /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:33:38.182Z [32minfo[39m: PUT /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:35:28.966Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:35:28.968Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:35:29.075Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:35:31.400Z [32minfo[39m: GET /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:35:31.898Z [32minfo[39m: PUT /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:35:52.298Z [32minfo[39m: Server running on port 5000
+2025-03-05T11:35:57.832Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:35:58.031Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:35:58.036Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:35:59.939Z [32minfo[39m: GET /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:36:00.100Z [32minfo[39m: PUT /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:36:34.966Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:36:34.970Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:36:34.973Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:36:36.867Z [32minfo[39m: GET /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:36:37.015Z [32minfo[39m: PUT /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:36:42.012Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:36:42.019Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:36:42.022Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:38:02.714Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:38:02.716Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:38:02.719Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:38:05.126Z [32minfo[39m: GET /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:38:23.366Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:38:23.375Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:38:23.522Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:38:25.368Z [32minfo[39m: GET /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:38:25.736Z [32minfo[39m: PUT /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:38:46.093Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:38:46.097Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:38:46.258Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:38:49.028Z [32minfo[39m: GET /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:38:49.177Z [32minfo[39m: PUT /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:39:01.247Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:39:01.250Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:39:01.251Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:39:03.927Z [32minfo[39m: GET /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:39:04.066Z [32minfo[39m: PUT /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:39:09.630Z [32minfo[39m: GET /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:39:09.781Z [32minfo[39m: PUT /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:39:39.065Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:39:39.068Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:39:39.070Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:39:41.510Z [32minfo[39m: GET /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:39:41.666Z [32minfo[39m: PUT /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:40:22.266Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:40:22.268Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:40:22.269Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:40:25.400Z [32minfo[39m: GET /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:40:25.540Z [32minfo[39m: PUT /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:40:26.454Z [32minfo[39m: GET /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:40:26.523Z [32minfo[39m: PUT /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:40:29.283Z [32minfo[39m: GET /api/tasks/67c7ec3f4c26875e2a8359d7
+2025-03-05T11:40:29.438Z [32minfo[39m: PUT /api/tasks/67c7ec3f4c26875e2a8359d7
+2025-03-05T11:40:29.898Z [32minfo[39m: GET /api/tasks/67c7ec3f4c26875e2a8359d7
+2025-03-05T11:40:29.964Z [32minfo[39m: PUT /api/tasks/67c7ec3f4c26875e2a8359d7
+2025-03-05T11:40:36.797Z [32minfo[39m: DELETE /api/tasks/67c7ec3f4c26875e2a8359d7
+2025-03-05T11:40:39.199Z [32minfo[39m: DELETE /api/tasks/67c7ebda4c26875e2a8359d2
+2025-03-05T11:40:41.536Z [32minfo[39m: DELETE /api/tasks/67c82ee995235d0c67637747
+2025-03-05T11:40:42.955Z [32minfo[39m: GET /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:40:43.101Z [32minfo[39m: PUT /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:40:43.587Z [32minfo[39m: GET /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:40:43.659Z [32minfo[39m: PUT /api/tasks/67c7ec424c26875e2a8359e0
+2025-03-05T11:40:44.999Z [32minfo[39m: GET /api/tasks/67c7ec414c26875e2a8359dd
+2025-03-05T11:40:45.135Z [32minfo[39m: PUT /api/tasks/67c7ec414c26875e2a8359dd
+2025-03-05T11:40:45.683Z [32minfo[39m: GET /api/tasks/67c7ec414c26875e2a8359dd
+2025-03-05T11:40:45.753Z [32minfo[39m: PUT /api/tasks/67c7ec414c26875e2a8359dd
+2025-03-05T11:40:52.327Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:40:52.330Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:40:52.331Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:45:24.916Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:45:24.968Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:45:25.042Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:45:41.403Z [32minfo[39m: PUT /api/tasks/67c7ec414c26875e2a8359dd
+2025-03-05T11:45:44.802Z [32minfo[39m: DELETE /api/tasks/67c7ec414c26875e2a8359dd
+2025-03-05T11:45:47.251Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:45:47.253Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:45:47.422Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:46:00.735Z [32minfo[39m: PUT /api/tasks/67c7ec414c26875e2a8359da
+2025-03-05T11:46:03.805Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:46:03.819Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:46:03.823Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:46:06.120Z [32minfo[39m: GET /api/tasks/67c7ec414c26875e2a8359da
+2025-03-05T11:46:06.314Z [32minfo[39m: PUT /api/tasks/67c7ec414c26875e2a8359da
+2025-03-05T11:51:01.658Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:51:01.699Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:51:01.720Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:51:03.531Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:51:03.768Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:51:03.776Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:51:05.571Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:51:05.572Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:51:05.744Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:55:49.026Z [32minfo[39m: POST /api/users/login
+2025-03-05T11:56:36.859Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:56:37.062Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:56:37.065Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:57:06.700Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:59:22.193Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:59:22.247Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:59:22.262Z [32minfo[39m: GET /api/tasks
+2025-03-05T11:59:35.848Z [32minfo[39m: POST /api/users/login
+2025-03-05T11:59:36.262Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:04:07.895Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:04:11.697Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:04:15.832Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:04:17.930Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:04:33.893Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:04:47.082Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:04:53.393Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:05:01.531Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:05:10.510Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:05:14.245Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:05:26.845Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:05:32.335Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:05:34.442Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:05:41.710Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:05:43.905Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:06:53.246Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:07:00.797Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:07:06.533Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:07:08.057Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:07:38.463Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:07:40.921Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:12:06.550Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:12:06.560Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:12:06.592Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:12:25.108Z [32minfo[39m: POST /api/users/login
+2025-03-05T12:12:27.891Z [32minfo[39m: POST /api/users/login
+2025-03-05T12:13:21.874Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:13:22.037Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:13:35.095Z [32minfo[39m: POST /api/users/login
+2025-03-05T12:13:45.869Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:13:45.873Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:14:00.989Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:14:00.996Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:14:13.160Z [32minfo[39m: POST /api/users/login
+2025-03-05T12:16:55.390Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:16:55.431Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:17:06.967Z [32minfo[39m: POST /api/users/login
+2025-03-05T12:17:07.187Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:17:07.443Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:17:24.542Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:17:24.548Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:17:24.729Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:18:56.063Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:18:56.325Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:18:56.580Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:19:08.407Z [32minfo[39m: POST /api/users/login
+2025-03-05T12:19:08.791Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:19:08.873Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:19:57.065Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:19:57.067Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:19:57.247Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:20:09.262Z [32minfo[39m: POST /api/users/login
+2025-03-05T12:20:09.479Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:20:09.551Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:20:18.104Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:20:18.109Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:20:18.110Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:20:38.499Z [32minfo[39m: POST /api/users/login
+2025-03-05T12:20:38.699Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:20:44.699Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:20:44.711Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:20:44.714Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:24:46.132Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:24:46.134Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:24:46.522Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:25:00.322Z [32minfo[39m: POST /api/users/login
+2025-03-05T12:25:00.706Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:25:03.377Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:25:03.380Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:25:03.539Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:25:08.196Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:25:08.275Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:30:24.386Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:30:24.403Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:30:24.529Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:30:30.028Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:30:30.288Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:30:30.368Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:30:41.803Z [32minfo[39m: POST /api/tasks
+2025-03-05T12:30:44.142Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:30:44.152Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:30:44.204Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:30:47.181Z [32minfo[39m: GET /api/tasks/67c843f1f34719b8b85fb194
+2025-03-05T12:30:47.336Z [32minfo[39m: PUT /api/tasks/67c843f1f34719b8b85fb194
+2025-03-05T12:30:47.878Z [32minfo[39m: GET /api/tasks/67c843f1f34719b8b85fb194
+2025-03-05T12:30:47.954Z [32minfo[39m: PUT /api/tasks/67c843f1f34719b8b85fb194
+2025-03-05T12:30:52.967Z [32minfo[39m: PUT /api/tasks/67c843f1f34719b8b85fb194
+2025-03-05T12:30:59.737Z [32minfo[39m: PUT /api/tasks/67c843f1f34719b8b85fb194
+2025-03-05T12:31:09.278Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:31:09.355Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:31:19.336Z [32minfo[39m: POST /api/users/login
+2025-03-05T12:31:19.522Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:31:25.759Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:31:25.852Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:31:25.932Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:31:56.099Z [32minfo[39m: POST /api/users/register
+2025-03-05T12:32:57.430Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:32:57.433Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:33:05.137Z [32minfo[39m: POST /api/users/register
+2025-03-05T12:33:05.560Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:33:05.643Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:33:16.096Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:33:16.174Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:33:16.251Z [32minfo[39m: GET /api/tasks
+2025-03-05T12:33:45.526Z [32minfo[39m: Server running on port 5000
+2025-03-05T12:33:49.367Z [32minfo[39m: Server running on port 5000
